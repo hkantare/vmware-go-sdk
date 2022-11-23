@@ -1,4 +1,4 @@
-module github.com/hkantare/vmware-services-go-sdk
+module github.com/hkantare/vmware-go-sdk
 
 go 1.16
 
